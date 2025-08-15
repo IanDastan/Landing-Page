@@ -1,0 +1,1 @@
+This is the final project after learning basics on HTML and CSS by The Odin Project. The Project aims at building a personal ability to create a web page from scratch.
